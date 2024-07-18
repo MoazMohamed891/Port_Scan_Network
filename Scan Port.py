@@ -9,7 +9,7 @@ from datetime import datetime
 print ("\033[31m")
 
 os.system("figlet Hallo TO Moaz Mohamed Script ")
-time.sleep(3)
+sleep(3)
 os.system("clear")
 
 print ("\033[1;34m")
